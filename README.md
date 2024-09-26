@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @scriptspastebin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 scriptspastebin/scriptspastebin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,10 +26,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"> Other Accounts</h2>
 
 <p align="center">
-  <a href="https://replit.com/@scriptspastebin">Replit</a> |
-  <a href="https://pastebin.com/u/scriptspastebin">Pastebin</a> |
-  <a href="https://scriptblox.com/u/scriptspastebin">ScriptBlox</a> |
-  <a href="https://www.youtube.com/@scriptspastebin">YouTube</a>
+  <a href="https://scriptspastebin.com/">ScriptBlox</a> |
+  <a href="https://www.reddit.com/user/scriptspastebin/">Reddit</a>
 </p>
 
 <br>
@@ -47,9 +37,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">If you have a business proposal, employment concern, or you're just looking for some information, you can reach me at the listed platforms.</h4>
 
 <h2 align="center">
-  <a href="mailto:scriptspastebin@example.com">E-Mail</a> |
-  <a href="https://discord.com/users/611111398818316309">Discord</a> |
-  <a href="https://t.me/scriptspastebin">Telegram</a> (*MOST ACTIVE*)
+  <a href="contactscriptspastebin@gmail.com">E-Mail</a> |
 </h2>
 
 <!-- Uncomment if you'd like to include languages in the future -->
